@@ -5,7 +5,7 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 /**
- * Задача от Руслана Хасанова
+ * Задача от Руслана Ханова
  * https://www.youtube.com/live/T2XOf1K_YHo?feature=share&t=3560
  *
  * @koras
